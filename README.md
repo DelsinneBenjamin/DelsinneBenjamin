@@ -1,20 +1,55 @@
+# 👋 Hey, I'm Benjamin Delsinne
 
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate full stack developper from Belgium</h3>
+I'm a **Java & Python developer**, freshly graduated and passionate about building meaningful software to solve real-world problems.  
+I love learning new technologies, designing clean UIs, and delivering robust, maintainable systems.
 
-- 🔭 I’m currently working on **MediCare**
+💡 I enjoy turning ideas into working apps — useful, fast, and clean.  
+🔧 I work daily with **Java Spring Boot**, **Python Django**, and **Angular**.
 
-- 🌱 I’m currently learning **Python, Django**
+---
 
-- 💬 Ask me about **Java, Angular**
+## 🛠️ Badges & Tools
 
-- 📫 How to reach me **delsinnebenjaminpro@gmail.com**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- ⚡ Fun fact **I am a playing card collector**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💭 What I'm into
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- ☕ **Java Spring Boot** – My go-to for building secure, scalable backends  
+- 🐍 **Python Django** – Rapid development with clean and pragmatic design  
+- 🕸️ **Angular** – For building reactive and dynamic user interfaces  
+- 🏥 **eHealth / MedTech** – Tech for improving the healthcare experience  
+- 🧠 **Learning** – I'm always exploring new tools, frameworks and best practices  
+
+---
+
+## 🛠️ Project I'm working on
+
+### 🩺 MediCare  
+A personal project aimed at helping **independent doctors** manage their **patients** and **appointments** more easily.  
+Built with **Python**, **Django**, and **Angular**, MediCare focuses on productivity, simplicity, and security.
+
+---
+
+## 📊 GitHub Stats
+
+| 📈 Stats | 📌 Most Used Languages |
+|---------|------------------------|
+| ✨ **Total Stars Earned**: 0 (for now!) <br> 🧑‍💻 **Commits (2025)**: Counting... <br> 🔁 **PRs**: Active contributor <br> 🐛 **Issues**: I solve them fast! | ![Java](https://img.shields.io/badge/Java-40%25-orange) <br> ![Python](https://img.shields.io/badge/Python-30%25-blue) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-15%25-lightblue) <br> ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-10%25-red) <br> ![Shell](https://img.shields.io/badge/Shell-5%25-grey) |
+
+---
+
+## 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/benjamin-delsinne)  
+[![Email](https://img.shields.io/badge/Email-delsinnebenjaminpro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delsinnebenjaminpro@gmail.com)
+
+---
+
+📝 "Simple code. Real impact."
