@@ -41,7 +41,7 @@ Built with **Python**, **Django**, and **Angular**, MediCare focuses on producti
 
 | 📈 Stats | 📌 Most Used Languages |
 |---------|------------------------|
-| ✨ **Total Stars Earned**: 0 (for now!) <br> 🧑‍💻 **Commits (2025)**: Counting... <br> 🔁 **PRs**: Active contributor <br> 🐛 **Issues**: I solve them fast! | ![Java](https://img.shields.io/badge/Java-40%25-orange) <br> ![Python](https://img.shields.io/badge/Python-30%25-blue) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-15%25-lightblue) <br> ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-10%25-red) <br> ![Shell](https://img.shields.io/badge/Shell-5%25-grey) |
+| ✨ **Total Stars Earned**: 0 (for now!) <br> 🧑‍💻 **Commits (2025)**: Counting... <br>🐛 **Issues**: I solve them fast! | ![Java](https://img.shields.io/badge/Java-40%25-orange) <br> ![Python](https://img.shields.io/badge/Python-30%25-blue) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-15%25-lightblue) <br> ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-10%25-red) <br> ![Shell](https://img.shields.io/badge/Shell-5%25-grey) |
 
 ---
 
