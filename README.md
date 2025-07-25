@@ -47,7 +47,8 @@ Built with **Python**, **Django**, and **Angular**, MediCare focuses on producti
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/benjamin-delsinne](https://www.linkedin.com/in/benjamin-delsinne-4964a2262/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/benjamin-delsinne-4964a2262/)
+
 [![Email](https://img.shields.io/badge/Email-delsinnebenjaminpro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delsinnebenjaminpro@gmail.com)
 
 ---
